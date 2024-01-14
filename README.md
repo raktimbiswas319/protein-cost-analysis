@@ -11,15 +11,19 @@ Buford Highway Farmer’s Market, a large market with a global & ethnic focus in
 While we make no medical claims, we believe the customer is to take charge of their well-being. Moreover, in a manner that deviates from the standard protocol of health that we observe in the United States. Rather than following the generic approach to diet by proxy of the food pyramid, people should take extra care to understand what is essential for everyone to sustain their body, and what is unique to their bodies and lifestyles. For the [United States](https://doi.org/10.1093%2Fadvances%2Fnmz023), a modernized, more comprehensive metric for protein quality is needed—one that takes into account not only the quality of a food's amino acid profile but also the quality of its impact on human health and the environment. It should be noted that our investigation does NOT consider physical activity directly, though it is integral to well-being alongside nutrition. 
 
 ### Goal of Bar graph
+![image](https://github.com/raktimbiswas319/protein-cost-analysis/assets/147740662/51209729-f9a7-49de-9693-0b0262b8c64a)
+
 * Represents a range of prices visually
 * Represents deviation as well (is the range skewed toward one price range or spread evenly?)
-#### Goal of Slicer/Filter
-Allows us to show differences in each food group and diet type
-
+### Goal of Slicer/Filter
+* Allows us to show differences in each food group and diet type
 * Average Cost Across All Stores
 * Average Costs Per Store
 * Average Cost Per Food Group
 * Average Cost Per Diet Type
+
+   ![image](https://github.com/raktimbiswas319/protein-cost-analysis/assets/147740662/1e3917ef-83b1-4c6e-bb29-a7d4325b2b02)
+
 * Investigation of Costs for different Weight Classes
   * Example: 180 lb male vs 120 lb female, 205 lb male vs 150 lb male, etc
 * Future Considerations/Overlooked Parameters
