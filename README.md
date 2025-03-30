@@ -1,5 +1,7 @@
 # Local Protein Cost Project
  This is a PowerBI project that visualizes the cost of 20g of protein from 30+ food sources found at 4 major grocery stores in the Metro-Atlanta area; analyzing the differences in costs between stores, food groups, and dietary restrictions.
+ ![image](https://github.com/user-attachments/assets/e408e60f-c573-45b3-be68-500cb8d668d7)
+
 
 ## Project Requirements 
 Being in the medical field is an unnecessary requisite to express the importance of protein in a healthy diet. Being a financial guru is an unnecessary requisite to express to you the importance of being mindful of your wallet. Across the U.S., there are [63,328 supermarkets](https://www.driveresearch.com/market-research-company-blog/grocery-store-statistics-where-when-how-much-people-grocery-shop/)  and grocery store businesses; however to fit the various needs of a consumer in Metro-Atlanta 4 stores define them best. 
